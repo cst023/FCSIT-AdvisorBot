@@ -1,0 +1,21 @@
+# AdvisorBot Backend — Python Dependencies
+#
+# Install with:
+#   pip install -r requirements.txt
+
+# ---- FastAPI & Server ----
+fastapi
+uvicorn
+python-multipart    # Required for FastAPI form handling
+
+# ---- RAG Pipeline ----
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-nvidia-ai-endpoints
+
+# ---- Utilities ----
+python-dotenv
+pydantic            # Bundled with FastAPI, pinned for compatibility
+
