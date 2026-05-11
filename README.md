@@ -2,14 +2,14 @@
 
 This repository provides the backend for the FCSIT AdvisorBot.
 
-Setup and usage instructions:
+## Setup and usage instructions:
 
 You can try it in two ways:
 
 1. CLI chat mode (run `vector_rag.py` directly)
 2. Local API server mode (run FastAPI with Uvicorn) for frontend integration (for example, a Flutter app)
 
-## Prerequisites
+### Prerequisites
 
 1. Python 3.10+ installed
 2. Install dependencies:
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 NVIDIA_NIM_API=your_api_key_here
 ```
 
-## Option 1: Run Chatbot in CLI
+### Option 1: Run Chatbot in CLI
 
 Use this mode if you want to quickly test the chatbot in terminal.
 
@@ -36,7 +36,7 @@ python vector_rag.py
 Then type your questions in the terminal.
 Type `-1` to exit.
 
-## Option 2: Run Local API Server
+### Option 2: Run Local API Server
 
 Use this mode if you want to connect a frontend app (such as Flutter) to the chatbot backend.
 
