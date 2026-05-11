@@ -57,4 +57,4 @@ Chat endpoint:
 ## Notes
 
 - If you are testing with your Flutter frontend, start this backend server first.
-- This repository only contains the backend; the Flutter app repository is separate.
+- This repository only contains the backend; the Flutter app repository is separate at: [AdvisorBot Mobile App](https://github.com/cst023/FCSIT-AdvisorBot-Mobile-App)
