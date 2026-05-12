@@ -6,7 +6,7 @@ from langchain_core.documents import Document
 from langchain_chroma import Chroma
 from langchain_nvidia_ai_endpoints import NVIDIAEmbeddings
 
-# Modify these variables according to your file paths and desired Chroma collection details
+# Modify these variables according to your file paths and desired Chroma collection details.
 MARKDOWN_FILE = r"C:\Users\christine\Downloads\fcsitadvisorbot_backend\academic_calendar_ug_extracted.md"
 PERSIST_DIR = "./chroma_fcsit"
 COLLECTION_NAME = "fcsit_unimas_2026" 
@@ -37,11 +37,13 @@ for page in pages:
 
     # Extract metadata
     page_number_match = re.search(r"Physical Page\s+(\d+)", page)
+    doc_id_match = re.search(r"Doc ID:\s*(.+)", page)
     source_match = re.search(r"Source:\s*(.+)", page)
     link_match = re.search(r"Link:\s*(.+)", page)
     first_section_title_match = re.search(r"^#\s*(.+)", page, re.MULTILINE)
 
     page_number = int(page_number_match.group(1)) if page_number_match else None
+    doc_id = doc_id_match.group(1).strip() if doc_id_match else None
     source = source_match.group(1).strip() if source_match else None
     link = link_match.group(1).strip() if link_match else None
     first_section_title = first_section_title_match.group(1).strip() if first_section_title_match else "Unknown"
@@ -49,6 +51,7 @@ for page in pages:
 
     # Remove metadata text from content
     cleaned_content = re.sub(r"Physical Page\s+\d+", "", page)
+    cleaned_content = re.sub(r"Doc ID:.*", "", cleaned_content)
     cleaned_content = re.sub(r"Source:.*", "", cleaned_content)
     cleaned_content = re.sub(r"Link:.*", "", cleaned_content)
     cleaned_content = re.sub(r"Page number:.*", "", cleaned_content)
@@ -61,6 +64,7 @@ for page in pages:
             page_content=cleaned_content,
             metadata={
                 "page": page_number,
+                "doc_id": doc_id,
                 "source": source,
                 "source_link": link,
                 "section": first_section_title
