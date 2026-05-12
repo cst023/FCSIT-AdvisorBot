@@ -1,8 +1,9 @@
-
+﻿
 
 ===
 
 Physical Page 1
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -18,6 +19,7 @@ UNIVERSITI MALAYSIA SARAWAK
 ===
 
 Physical Page 3
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -64,6 +66,7 @@ Academic Regulations for Undergraduate Studies
 ===
 
 Physical Page 4
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -101,6 +104,7 @@ Academic Regulations for Undergraduate Studies
 ===
 
 Physical Page 5
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -145,6 +149,7 @@ Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulatio
 ===
 
 Physical Page 6
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -183,6 +188,7 @@ Academic Regulations for Undergraduate Studies
 ===
 
 Physical Page 7
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -225,6 +231,7 @@ Academic Regulations for Undergraduate Studies
 ===
 
 Physical Page 8
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -261,6 +268,7 @@ Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulatio
 ===
 
 Physical Page 9
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -303,6 +311,7 @@ Current students who need to take a course during the intersession, shall comple
 ===
 
 Physical Page 10
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -348,6 +357,7 @@ The maximum limit for course registration during the Intersession is **nine (9)*
 ===
 
 Physical Page 11
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -391,6 +401,7 @@ Note: Refer to the Faculty Academic Handbook for details.
 ===
 
 Physical Page 12
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -439,6 +450,7 @@ Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulatio
 ===
 
 Physical Page 13
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -485,6 +497,7 @@ This symbol is recorded in student transcripts for a list of courses that obtain
 ===
 
 Physical Page 14
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -526,6 +539,7 @@ This symbol is recorded in the semester results slip for courses taken to improv
 ===
 
 Physical Page 15
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -576,6 +590,7 @@ Examples of GPA and CGPA calculations are as in Appendix 2.
 ===
 
 Physical Page 16
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -629,6 +644,7 @@ Appeals to recheck the results of the assessment of a course shall be submitted 
 ===
 
 Physical Page 17
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -671,6 +687,7 @@ Students are given a **Conditional Pass** status by getting a **CGPA between 1.7
 ===
 
 Physical Page 18
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -719,6 +736,7 @@ Students who have met the requirements of the total credit amount to graduate bu
 ===
 
 Physical Page 19
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -770,6 +788,7 @@ Registered Students may apply to defer their studies with the Dean's approval be
 ===
 
 Physical Page 20
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -800,6 +819,7 @@ However, the approval for students to defer the study is limited to three (3) ti
 ===
 
 Physical Page 21
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -838,6 +858,7 @@ Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulatio
 ===
 
 Physical Page 22
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -894,6 +915,7 @@ Academic Regulations for Undergraduate Studies
 ===
 
 Physical Page 23
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -930,6 +952,7 @@ Academic Regulations for Undergraduate Studies
 ===
 
 Physical Page 24
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -950,10 +973,10 @@ Students who have been approved to withdraw from study, are eligible to reimburs
 ### 20.4
 The University's decision to approve the students withdrawal from study is **final** and students are not allowed to make cancellation or withdrawal of the approved applications.
 
-## 21. CONFERMENT OF DEGREE
+## 21. CONFERMENT OF DEGREE / GRADUATION REQUIREMENTS
 
 ### 21.1
-A student must meet all of the following conditions to graduate and awarded a **Bachelor's Degree with Honors**
+A student must meet all of the following conditions to graduate and be awarded a **Bachelor's Degree with Honors**
 
 (a) Passed all the courses required for the program within the set period;
 
@@ -983,6 +1006,7 @@ Aegrotat and Posthumous Academic Award is subjected to the following conditions:
 ===
 
 Physical Page 25
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -1028,6 +1052,7 @@ Note: In the event of any inconsistency in this Academic Regulations, the Bahasa
 ===
 
 Physical Page 26
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -1058,6 +1083,7 @@ Academic Regulations for Undergraduate Studies
 ===
 
 Physical Page 27
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -1118,6 +1144,7 @@ $$
 ===
 
 Physical Page 28
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -1158,6 +1185,7 @@ B. Processing Fee
 ===
 
 Physical Page 29
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -1207,6 +1235,7 @@ Note: Special Re-Examination (PUK) will be using the calculation of fees per cre
 ===
 
 Physical Page 30
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -1244,6 +1273,7 @@ The calculation of the reimbursement rate of the study fee is calculated from th
 ===
 
 Physical Page 31
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
@@ -1255,13 +1285,17 @@ This Academic Regulations for Undergraduate Studies has been approved by the 197
 ===
 
 Physical Page 32
+Doc ID: 02
 Source: Academic Regulations for Undergraduate Studies UNIMAS (Eng Version)
 Link: https://www.bpps.unimas.my/media/attachments/2022/08/22/academic_regulations_for_undergraduate_studies_veng.pdf 
 
 ```markdown
-Undergraduate Studies Division
+Undergraduate Studies Division (Bahagian Pelajar Pra-Siswazah, BPPS)
 Universiti Malaysia Sarawak
 94300 Kota Samarahan, Sarawak, Malaysia
 ☎️ 60 82 581166
 🌐 www.unimas.my
 ```
+
+
+

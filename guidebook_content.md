@@ -1,8 +1,9 @@
-
+﻿
 
 ===
 
 Physical Page 1
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -31,6 +32,7 @@ FACULTY OF COMPUTER SCIENCE & INFORMATION TECHNOLOGY
 ===
 
 Physical Page 4
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -52,6 +54,7 @@ ii
 ===
 
 Physical Page 5
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -142,6 +145,7 @@ vi
 ===
 
 Physical Page 6
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -205,6 +209,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 7
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -247,6 +252,7 @@ PERTEKMA Committee, session 2025/2026
 ===
 
 Physical Page 8
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -279,6 +285,7 @@ Faculty of Computer Science and Information Technology
 ===
 
 Physical Page 9
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -299,6 +306,7 @@ The UNIMAS Brand Logo is used to represent our vision and mission towards global
 ===
 
 Physical Page 10
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -340,6 +348,7 @@ We embrace differences and work towards a safe environment that values, respects
 ===
 
 Physical Page 11
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -399,6 +408,7 @@ MANAGEMENT
 ===
 
 Physical Page 12
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -456,6 +466,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 13
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -493,6 +504,7 @@ To enhance the social and economic impacts on the global community through the p
 ===
 
 Physical Page 14
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -564,6 +576,7 @@ MITM: Master in Information Technology Management
 ===
 
 Physical Page 15
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -620,6 +633,7 @@ Razeki Jelihi
 ===
 
 Physical Page 16
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -648,6 +662,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 17
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -733,6 +748,7 @@ UW6481001
 ===
 
 Physical Page 18
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -832,6 +848,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 19
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -911,6 +928,7 @@ UW6481003
 ===
 
 Physical Page 20
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1031,6 +1049,7 @@ UW6481004
 ===
 
 Physical Page 21
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1128,6 +1147,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 22
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1201,6 +1221,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 23
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1243,6 +1264,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 24
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1270,6 +1292,7 @@ Undergraduate students must not commit any violations of the Academic Regulation
 ===
 
 Physical Page 25
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1319,6 +1342,7 @@ c) General Education Subject courses (MPU), taken at Diploma level, except for t
 ===
 
 Physical Page 26
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1364,6 +1388,7 @@ c) For students transferring from another HEI, the credit transfer with grade ap
 ===
 
 Physical Page 27
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1408,6 +1433,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 28
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1439,6 +1465,7 @@ Table 1 : Grade and grade point
 ===
 
 Physical Page 29
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1466,6 +1493,7 @@ Table 2 : Course status classification
 ===
 
 Physical Page 30
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1477,11 +1505,20 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 | KT (Additional Course) | Given to the course attended by students as an addition to the core courses. Students attend and complete assessment for the course. The grade point for this course will be taken into account in the calculation of GPA and CGPA but the number of additional course credits is not taken into account for the purpose of graduation. Registration or exchange of status to Additional Courses shall be made by the second week (2nd) of a semester. |
 | Rn (Repeat Course) | This symbol is recorded in the semester results slip for the repeated course after being taken but failed. The n symbol after the letter r shows the amount of times the course has been repeated. |
 | KBn (Repair Course) | This symbol is recorded in the semester results slip for courses taken to improve grades of course taken before. The best grade will be taken into account for GPA and CGPA calculations. The n symbol after the letter KB shows the amount of times the course has been retaken. |
+```
 
-# ACADEMIC SESSION
+===
+
+Physical Page 30
+Doc ID: 01
+Source: UNIMAS FCSIT Student Handbook 2025/2026
+Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
+
+```markdown
+# ACADEMIC SESSION AND DURATION OF STUDY
 
 1. A single Academic Year consists of two 17-week Semesters and one Intersession. Programme and Specialisation Core are not offered during Intersession, except for extenuating circumstances. Always refer to BPPs’s website for the latest Academic Calendar. URL: bpps.unimas.my/academic-calendar
-2. Duration of study for all BCS and BSE programmes is 4 Years / 8 Semesters.
+2. Duration of study for all Bachelor of Computer Science (BCS) and Bachelor of Software Engineering (BSE) programmes is 4 Years / 8 Semesters.
 3. A semester consists of 14+3 weeks, see next page.
 
 ```
@@ -1490,11 +1527,12 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 31
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
 ```markdown
-# ACADEMIC SESSION
+# ACADEMIC SESSION 
 
 | BPPs Housekeeping | Wk 1 | Wk 2 | Wk 3 | Wk 4 | Wk 5 | Wk 6 | Wk 7 | Sem Break | Wk 8 | Wk 9 | Wk 10 | Wk 11 | Wk 12 | Wk 13 | Wk 14 | Wk 15 | Wk 16 | Wk 17 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -1520,6 +1558,7 @@ Exam Weeks
 ===
 
 Physical Page 32
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1552,6 +1591,7 @@ PNGK = Total for all grade point in a semester / Total for all Credit of all cou
 ===
 
 Physical Page 33
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1574,6 +1614,7 @@ d) Gagal dan Diberhentikan (GB) – Obtained a CGPA less than 1.75 or failed to 
 ===
 
 Physical Page 34
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1605,6 +1646,7 @@ $^{2}$ As stated in the Malaysian Qualifications Agency’s Program Standards: C
 ===
 
 Physical Page 35
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1628,6 +1670,7 @@ Table 3 : Senarios of passing rules
 ===
 
 Physical Page 36
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1650,6 +1693,7 @@ Handbook
 ===
 
 Physical Page 37
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1695,6 +1739,7 @@ List of computer labs for Undergraduate students:
 ===
 
 Physical Page 38
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1733,6 +1778,7 @@ Please abstain from doing any actions that may damage the lab facilities and/or 
 ===
 
 Physical Page 39
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1755,6 +1801,7 @@ TSH is managed by PERTEKMA Excos. The regular opening hours are 8.30am-5pm. The 
 ===
 
 Physical Page 40
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1781,6 +1828,7 @@ Generics, Remedials, Reinforcements and MPUs are University courses offered to a
 ===
 
 Physical Page 41
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1822,6 +1870,7 @@ f) In the event of programme transfer, elective courses that have been taken and
 ===
 
 Physical Page 42
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1858,6 +1907,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 43
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1893,6 +1943,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 44
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1922,6 +1973,7 @@ Notes: Senat Bil.08/2024
 ===
 
 Physical Page 45
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1949,6 +2001,7 @@ Table 6 : List of UNIMAS’s General Courses for Session 2020/2021 and onwards (
 ===
 
 Physical Page 46
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1975,6 +2028,7 @@ All students are required to complete a set of General Studies or Mata Pelajaran
 ===
 
 Physical Page 47
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -1997,6 +2051,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 48
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2015,6 +2070,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 49
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2034,6 +2090,7 @@ Notes : Dok.6.6/191- Senat Bil.06/2020 Ke-191
 ===
 
 Physical Page 50
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2058,6 +2115,7 @@ Student must complete remedial courses. Total = 1
 ===
 
 Physical Page 51
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2080,6 +2138,7 @@ Generic development courses are general university courses aimed at developing t
 ===
 
 Physical Page 52
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2105,6 +2164,7 @@ Subject to changes. Please be vigilant for any announcements from FELC at the be
 ===
 
 Physical Page 53
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2155,6 +2215,7 @@ Latest amendments
 ===
 
 Physical Page 54
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2187,6 +2248,7 @@ Only register the correct Course Code as listed in your Curriculum Structure!
 ===
 
 Physical Page 55
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2219,6 +2281,7 @@ Upon 3 – 5 years after graduation, a Student of the Faculty is expected to pos
 ===
 
 Physical Page 56
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2255,6 +2318,7 @@ Upon graduation, a student of the faculty is expected to possess the following t
 ===
 
 Physical Page 57
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2268,6 +2332,7 @@ image courtesy of matazlandy
 ===
 
 Physical Page 58
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2335,6 +2400,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 59
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2400,14 +2466,12 @@ Requisite To: None
 #### Data Structure and Algorithms
 Type: Faculty Core Course  
 Prerequisites:
-- Introduction to Programming
-- Discrete Mathematics
+- Introduction to Programming, Discrete Mathematics
 
 Requisites: None  
 
 Prerequisite To:
-- Object Oriented Software Development
-- Industrial Training  
+- Object Oriented Software Development, Industrial Training  
 
 Requisite To: None  
 
@@ -2519,8 +2583,7 @@ Requisite To: None
 Type: Programme Core Course  
 Prerequisites: None
 Requisites:
-- Database Concept and Design  
-- Human Computer Interaction
+- Database Concept and Design, Human Computer Interaction
 
 Prerequisite To: None  
 Requisite To: None  
@@ -2559,9 +2622,7 @@ Requisite To: None
 Type: Faculty Core Course  
 
 Prerequisites:
-- System Analysis and Design
-- Data Structure and Algorithms
-- Ethics and Professionalism  
+- System Analysis and Design, Data Structure and Algorithms, Ethics and Professionalism  
 
 Requisites: None  
 Prerequisite To: None  
@@ -2633,6 +2694,7 @@ Requisite To: None
 ===
 
 Physical Page 60
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2701,6 +2763,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 61
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -2758,13 +2821,11 @@ Requisite To: None
 #### Data Structure and Algorithms
 Type: Faculty Core Course  
 Prerequisites:
-- Introduction to Programming
-- Discrete Mathematics
+- Introduction to Programming, Discrete Mathematics
 
 Requisites: None  
 Prerequisite To:
-- Object Oriented Software Development
-- Industrial Training
+- Object Oriented Software Development, Industrial Training
 
 Requisite To: None  
 
@@ -2863,8 +2924,7 @@ Requisite To: None
 Type: Programme Core Course  
 Prerequisites: None
 Requisites:
-- Database Concept and Design
-- Human Computer Interaction
+- Database Concept and Design, Human Computer Interaction
 
 Prerequisite To: None  
 Requisite To: None
@@ -2903,9 +2963,7 @@ Requisite To: None
 #### Industrial Training
 Type: Faculty Core Course  
 Prerequisites:
-- System Analysis and Design
-- Data Structure and Algorithms
-- Ethics and Professionalism
+- System Analysis and Design, Data Structure and Algorithms, Ethics and Professionalism
 
 Requisites: None  
 Prerequisite To: None  
@@ -2992,6 +3050,7 @@ Requisite To: None
 ===
 
 Physical Page 62
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -3058,6 +3117,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 63
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -3115,14 +3175,11 @@ Requisite To: None
 #### Data Structure and Algorithms
 Type: Faculty Core Course  
 Prerequisites:
-- Introduction to Programming
-- Discrete Mathematics
+- Introduction to Programming, Discrete Mathematics
 
 Requisites: None  
 Prerequisite To:
-- Computer Graphics
-- Object Oriented Software Development
-- Industrial Training
+- Computer Graphics, Object Oriented Software Development, Industrial Training
 
 Requisite To: None  
 
@@ -3174,8 +3231,7 @@ Prerequisites: None
 Requisites: None
 Prerequisite To: None  
 Requisite To: 
-- Web Application Development
-- UI/UX Design
+- Web Application Development, UI/UX Design
 
 #### Operating System
 Type: Faculty Core Course  
@@ -3237,8 +3293,7 @@ Requisite To: None
 Type: Programme Core Course  
 Prerequisites: None
 Requisites:
-- Database Concept and Design
-- Human Computer Interaction
+- Database Concept and Design, Human Computer Interaction
 
 Prerequisite To: None  
 
@@ -3268,9 +3323,7 @@ Requisite To: None
 #### Industrial Training
 Type: Faculty Core Course  
 Prerequisites:
-- System Analysis and Design
-- Data Structure and Algorithms
-- Ethics and Professionalism
+- System Analysis and Design, Data Structure and Algorithms, Ethics and Professionalism
 
 Requisites: None  
 Prerequisite To: None  
@@ -3349,6 +3402,7 @@ Requisite To: None
 ===
 
 Physical Page 64
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -3455,6 +3509,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 65
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -3469,8 +3524,7 @@ Type: Faculty Core Course
 Prerequisites: None  
 Requisites: None  
 Prerequisite To:
-- Industrial Training 
-- Software Maintenance and Configuration 
+- Industrial Training, Software Maintenance and Configuration 
 
 Requisite To: None 
 
@@ -3492,9 +3546,7 @@ Type: Faculty Core Course
 Prerequisites: None  
 Requisites: None  
 Prerequisite To:
-- Data Structure and Algorithms
-- Automata Theory and Formal Language 
-- Formal Methods 
+- Data Structure and Algorithms, Automata Theory and Formal Language, Formal Methods 
 
 Requisite To: None  
  
@@ -3511,13 +3563,11 @@ Requisite To: None
 #### Data Structure and Algorithms
 Type: Faculty Core Course  
 Prerequisites:
-- Introduction to Programming
-- Discrete Mathematics
+- Introduction to Programming, Discrete Mathematics
 
 Requisites: None  
 Prerequisite To:
-- Object Oriented Software Engineering
-- Industrial Training  
+- Object Oriented Software Engineering, Industrial Training  
 
 Requisite To: None  
 
@@ -3553,8 +3603,7 @@ Prerequisites:
 
 Requisites: None  
 Prerequisite To:
-- Software Engineering Lab
-- Software Maintenance and Configuration
+- Software Engineering Lab, Software Maintenance and Configuration
 
 Requisite To: 
 - Java Programming
@@ -3622,8 +3671,7 @@ Requisite To: None
 Type: Faculty Core Course  
 Prerequisites: None  
 Requisites: 
-- Database Concept and Design
-- Human Computer Interaction
+- Database Concept and Design, Human Computer Interaction
 
 Prerequisite To: None  
 Requisite To: None   
@@ -3636,16 +3684,14 @@ Prerequisites:
 
 Requisites: None 
 Prerequisite To:
-- Software Testing
-- Software Security Engineering
+- Software Testing, Software Security Engineering
 
 Requisite To: None  
 
 #### Formal Methods
 Type: Programme Core Course  
 Prerequisites: 
-- Automata Theory and Formal Language
-- Discrete Mathematics
+- Automata Theory and Formal Language, Discrete Mathematics
 
 Requisites: None 
 Prerequisite To: None 
@@ -3677,9 +3723,7 @@ Requisite To: None
 Type: Faculty Core Course  
 
 Prerequisites:
-- System Analysis and Design
-- Data Structure and Algorithms
-- Ethics and Professionalism  
+- System Analysis and Design, Data Structure and Algorithms, Ethics and Professionalism  
 
 Requisites: None  
 Prerequisite To: None  
@@ -3693,8 +3737,7 @@ Requisite To: None
 #### Software Maintenance and Configuration
 Type: Programme Core Course  
 Prerequisites: 
-- System Analysis and Design
-- Object Oriented Software Engineering
+- System Analysis and Design, Object Oriented Software Engineering
 
 Requisites: None 
 Prerequisite To: None  
@@ -3758,6 +3801,7 @@ Requisite To: None
 ===
 
 Physical Page 66
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -3823,6 +3867,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 67
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -3847,8 +3892,7 @@ Type: Faculty Core Course
 Prerequisites: None  
 Requisites: None  
 Prerequisite To:
-- Data Structure and Algorithms  
-- System Programming
+- Data Structure and Algorithms, System Programming
 
 Requisite To: None  
 
@@ -3878,8 +3922,7 @@ Requisite To: None
 #### Data Structure and Algorithms
 Type: Faculty Core Course  
 Prerequisites:
-- Introduction to Programming
-- Discrete Mathematics
+- Introduction to Programming, Discrete Mathematics
 
 Requisites: None  
 Prerequisite To:
@@ -3902,12 +3945,7 @@ Type: Faculty Core Course
 Prerequisites: None  
 Requisites: None  
 Prerequisite To: 
-- Computer Security
-- Computer System Administration and Management
-- System Programming
-- Network Performance and Simulation
-- Wireless and Broadband Networks
-- Distributed System
+- Computer Security, Computer System Administration and Management, System Programming, Network Performance and Simulation, Wireless and Broadband Networks, Distributed System
 
 Requisite To: None  
 
@@ -3941,9 +3979,7 @@ Type: Faculty Core Course
 Prerequisites: None  
 Requisites: None  
 Prerequisite To: 
-- Computer System Administration and Management
-- Network Performance and Simulation
-- Distributed System
+- Computer System Administration and Management, Network Performance and Simulation, Distributed System
 
 Requisite To: None  
 
@@ -3994,8 +4030,7 @@ Requisite To: None
 Type: Faculty Core Course  
 Prerequisites: None  
 Requisites: 
-- Database Concept and Design
-- Human Computer Interaction
+- Database Concept and Design, Human Computer Interaction
 
 Prerequisite To: None  
 Requisite To: None   
@@ -4004,8 +4039,7 @@ Requisite To: None
 #### Computer System Administration and Management
 Type: Programme Core Course  
 Prerequisites: 
-- Communication and Computer Network
-- Operating System
+- Communication and Computer Network, Operating System
 
 Requisites: None 
 Prerequisite To: None
@@ -4037,9 +4071,7 @@ Requisite To: None
 Type: Faculty Core Course  
 
 Prerequisites:
-- System Analysis and Design
-- Ethics and Professionalism  
-- Data Structure and Algorithms
+- System Analysis and Design, Ethics and Professionalism, Data Structure and Algorithms
 
 Requisites: None  
 Prerequisite To: None  
@@ -4053,8 +4085,7 @@ Requisite To: None
 #### System Programming
 Type: Programme Core Course  
 Prerequisites: 
-- Introduction to Programming
-- Communication and Computer Network
+- Introduction to Programming, Communication and Computer Network
 
 Requisites: None 
 Prerequisite To: None  
@@ -4063,8 +4094,7 @@ Requisite To: None
 #### Distributed System
 Type: Programme Core Course  
 Prerequisites: 
-- Operating System
-- Communication and Computer Network
+- Operating System, Communication and Computer Network
 
 Requisites: None 
 Prerequisite To: None  
@@ -4106,8 +4136,7 @@ Requisite To: None
 #### Network Performance and Simulation
 Type: Programme Core Course  
 Prerequisites: 
-- Communication and Computer Network
-- Operating System
+- Communication and Computer Network, Operating System
 
 Requisites: None  
 Prerequisite To: None
@@ -4137,6 +4166,7 @@ Requisite To: None
 ===
 
 Physical Page 68
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4160,6 +4190,7 @@ PERTEKMA (Persatuan Teknologi Maklumat) is the Faculty’s Undergraduate Student
 ===
 
 Physical Page 69
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4201,6 +4232,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 70
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4271,6 +4303,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 71
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4349,6 +4382,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 72
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4375,6 +4409,7 @@ This program provides early exposure to career opportunities and industry develo
 ===
 
 Physical Page 73
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4399,6 +4434,7 @@ This program raises awareness about cyber ethics, tech skills, and career opport
 ===
 
 Physical Page 74
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4421,6 +4457,7 @@ This program aims to promote a healthy lifestyle, sportsmanship, and social inte
 ===
 
 Physical Page 75
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4453,10 +4490,11 @@ The Open Case, a PERTEKMA podcast, enhances communication between students and f
 ===
 
 Physical Page 76
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
-# ACADEMIC ADVISOR
+# ACADEMIC ADVISOR FCSIT UNIMAS
 
 - **Mentor Mentee Day 2024**
 - **Mentor Mentee Day 2024**
@@ -4473,6 +4511,7 @@ The Academic Advisor System (ACADS) is an online platform that enables Advisors 
 ===
 
 Physical Page 77
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4489,6 +4528,7 @@ Existing studies have shown that integrating academics and community service del
 ===
 
 Physical Page 78
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4507,6 +4547,7 @@ In addition, the incorporation of SL element into this course enables the studen
 ===
 
 Physical Page 79
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4523,6 +4564,7 @@ image courtesy of matazlandy
 ===
 
 Physical Page 80
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4559,6 +4601,7 @@ For more information, please visit https://www.fcsit.unimas.my/mitm
 ===
 
 Physical Page 81
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4590,6 +4633,7 @@ https://www.fcsit.unimas.my/what-we-offer/postgraduate-research
 ===
 
 Physical Page 82
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4618,6 +4662,7 @@ For more information, please visit https://creativeculture.my/gamificationcentre
 ===
 
 Physical Page 83
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4761,6 +4806,7 @@ Bangunan Akademik
 ===
 
 Physical Page 84
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4794,6 +4840,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 85
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4852,6 +4899,7 @@ courtesy of PPP UNIMAS
 ===
 
 Physical Page 86
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4869,6 +4917,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 87
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4905,6 +4954,7 @@ FAKULTI SAINS KOMPUTER & TEKNOLOGI MAKLUMAT
 ===
 
 Physical Page 88
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -4968,6 +5018,7 @@ FAKULTI SAINS KOMPUTER & TEKNOLOGI MAKLUMAT
 ===
 
 Physical Page 89
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -5001,6 +5052,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 90
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -5026,6 +5078,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 91
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -5060,77 +5113,10 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 
 ```
 
-
-===
-
-Physical Page 92
-Source: UNIMAS FCSIT Student Handbook 2025/2026
-Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
-
-```markdown
-# ACADEMIC CALENDAR 2025/2026
-
-UNIMAS
-UNIVERSITI MALAYSIA SARAWAK
-
-## KALENDAR AKADEMIK PENGAJIAN IJAZAH SARJANA MUDA SESI 2025/2026
-(ACADEMIC CALENDAR FOR UNDERGRADUATE STUDIES SESSION 2025/2026)
-
-| Aktiviti / Activity | SEMESTER 1 | |
-| :--- | :--- | :--- |
-| | **Tarikh** | **Catatan** |
-| **Pendaftaran Pelajar Baharu**<br>*(New Student Registration)*<br>***Online Registration*** | 17 Sep 2025 – 26 Sep 2025<br>(10 hari / 10 days) | |
-| **Pendaftaran Kolej Kediaman Pelajar Baharu**<br>*(Residential College Registration)* | 27 Sept 2025 – 28 Sept 2025<br>(2 hari / 2 days) | |
-| **Minggu Aluan Pelajar**<br>*(Student's Orientation Week) / Hari Bersama Fakulti* | 29 Sept 2025 – 2 Okt 2025<br>(4 hari / 4 days) | |
-| **Pendaftaran Online Pelajar Semasa**<br>*(Returning Student's Registration)*<br>***Online Registration*** | 29 Sept 2025 – 3 Okt 2025<br>(5 hari / 5 days) | |
-| **Pendaftaran Kolej Kediaman Pelajar Semasa**<br>*(Returning Student's Residential College Registration)* | 4 Okt 2025 – 5 Okt 2025<br>(2 hari / 2 days) | |
-| **Perkuliahan**<br>*(Lectures)* | 6 Okt 2025 – 11 Jan 2026<br>(14 minggu / 14 weeks) | **11 Oktober 2025**<br>*(11 October 2025)*<br>• Hari Jadi TYT Sarawak<br>(Sarawak Governor's Birthday)<br><br>**20 Oktober 2025**<br>*(20 October 2025)*<br>• Hari Deepavali (Semenanjung Malaysia sahaja)<br><br>**25 Disember 2025**<br>*(25 December 2025)*<br>• Hari Krismas (Christmas)<br><br>**1 Januari 2026**<br>*(1 January 2026)*<br>• Cuti Tahun Baharu 2026<br>(New Year) |
-| **Minggu Ulangkaji**<br>*(Revision Week)* | 12 Jan 2026 – 18 Jan 2026<br>(7 hari / 7 days) | |
-| **Minggu Peperiksaan**<br>*(Examination Week)* | 19 Jan 2026 – 8 Feb 2026<br>(3 minggu / 3 weeks) | |
-| **Cuti Semester 1**<br>*(Semester Break)* | 9 Feb 2026 – 1 Mac 2026<br>(3 minggu / 3 weeks) | **17 & 18 Feb 2026**<br>*(17 & 18 Feb 2026)*<br>• Tahun Baru Cina (Chinese New Year) |
-
-84
-```
-
-
-===
-
-Physical Page 93
-Source: UNIMAS FCSIT Student Handbook 2025/2026
-Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
-
-```markdown
-# ACADEMIC CALENDAR
-# 2025/2026
-
-| Aktiviti /Activity | SEMESTER 2 | |
-| :--- | :--- | :--- |
-| | **Tarikh** | **Catatan** |
-| **Pendaftaran Online Pelajar Semasa**<br>*(Returning Student's Registration/Online Semester Registration)* | **26 Feb 2026 – 27 Feb 2026**<br>(3 hari/3 days) | |
-| **Pendaftaran Kolej Kediaman Pelajar Semasa**<br>*(Returning Student's Residential College Registration)* | **28 Feb 2026 – 1 Mac 2026**<br>(2 hari/2 days) | |
-| **Perkuliahan**<br>*(Lectures)* | **2 Mac 2026 – 7 Jun 2026**<br>(14 minggu/ 14 weeks) | **20 & 21 Mac 2026 (20 & 21 March 2026)**<br>• Hari Raya Aidilfitri (Eid Mubarak)<br>(Tertakluk kepada pindaan tarikh yang diumumkan)<br><br>**3 April 2026 (3 April 2026)**<br>• Good Friday<br><br>**1 Mei 2026 (1 May 2026)**<br>• Cuti Hari Pekerja (Labour Day)<br><br>**27 Mei 2026 (27 May 2026)**<br>• Hari Raya Aidiladha (Eid Al-Adha)<br>(Tertakluk kepada pindaan tarikh yang diumumkan)<br><br>**31 Mei 2026 (31 May 2026)**<br>• Hari Wesak (Wesak Day)<br><br>**1 & 2 Jun 2026 (1&2 June 2026)**<br>• Hari Gawai (Gawai Day)<br><br>**1 Jun 2026 (1 June 2026)**<br>• Hari Keputeraan YDP Agong (Agong's Birthday)<br><br>**16 Jun 2026 (16 June 2026)**<br>• Awal Muharam |
-| **Minggu Ulangkaji**<br>*(Revision Week)* | **8 Jun 2026 – 14 Jun 2026**<br>(7 hari/ 7 days) | |
-| **Minggu Peperiksaan**<br>*(Examination Week)* | **15 Jun 2026 – 5 Jul 2026**<br>(3 minggu/ 3 weeks) | |
-| **Cuti Panjang**<br>*(Long Break)* | **6 Jul 2026 – 8 Sept 2026**<br>(9 minggu/ 9 weeks) | **22 Julai 2026 (22 July 2026)**<br>Hari Sarawak (Sarawak Day) |
-
-| Aktiviti /Activity | ANTARSESI | |
-| :--- | :--- | :--- |
-| | **Tarikh** | **Catatan** |
-| **Pendaftaran Pelajar Semasa**<br>*(Returning Student's Registration) Online Semester Registration* | **6 Jul 2026 – 12 Julai 2026**<br>(1 minggu/ 1 weeks) | |
-| **Perkuliahan**<br>*(Lectures)* | **6 Jul 2026 – 30 Ogos 2026**<br>(8 minggu/ 8 weeks) | |
-| **Latihan Industri** | **6 Jul 2026 – 13 Sept 2026**<br>(10 minggu/ 10 weeks) | |
-
-Nota: Pindaan Senat Bil.4/2025 ke-232 bertarikh 23 Mei 2025
-
-Disediakan oleh:
-**Bahagian Pengajian Prasiswazah Universiti Malaysia Sarawak**
-
-```
-
-
 ===
 
 Physical Page 94
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -5148,6 +5134,7 @@ Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf
 ===
 
 Physical Page 96
+Doc ID: 01
 Source: UNIMAS FCSIT Student Handbook 2025/2026
 Link: https://www.fcsit.unimas.my/images/2025/Student%20Handbook%2020252026.pdf 
 
@@ -5170,3 +5157,5 @@ UNIMAS
 UNIVERSITI MALAYSIA SARAWAK  
 FACULTY OF COMPUTER SCIENCE & INFORMATION TECHNOLOGY
 ```
+
+
