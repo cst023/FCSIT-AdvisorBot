@@ -1,6 +1,10 @@
 # FCSIT AdvisorBot API Backend
 #
-# Run server locally:
+# Requirements:
+#   pip install fastapi uvicorn python-dotenv
+#   (plus all existing RAG pipeline dependencies)
+#
+# Run locally:
 #   python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload 
 #
 
@@ -16,6 +20,7 @@ import time
 # ==============================
 # IMPORT YOUR EXISTING PIPELINE
 # ==============================
+
 
 from vector_rag import route_query, intent_chain
 
@@ -39,7 +44,9 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# CORS — allows your Flutter app to call this API.
+# CORS — allows your Flutter app (and any local browser testing) to call this API.
+# During development, allow all origins for convenience.
+# Tighten this to specific origins before production deployment.
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -59,8 +66,7 @@ class QueryRequest(BaseModel):
         max_length=1000,
         description="The user's query to the academic advising chatbot.",
         examples=["What are the programmes offered by FCSIT UNIMAS?"]
-    )
-    conversation_summary: str = ""  
+    ) 
 
 class QueryResponse(BaseModel):
     answer: str = Field(description="The chatbot's response.")
@@ -68,15 +74,18 @@ class QueryResponse(BaseModel):
         default=None,
         description="The detected intent category of the query."
     )
-    updated_summary: str = ""
+    response_time_s: float = Field(
+        description="Time taken by the AI to generate the answer, in seconds."
+    )
 
 class HealthResponse(BaseModel):
     status: str
     message: str
 
 # ==============================
-# HELPER FUNCTION — DETECT INTENT
+# HELPER — DETECT INTENT
 # ==============================
+
 
 def detect_intent(question: str) -> str:
     try:
@@ -88,13 +97,13 @@ def detect_intent(question: str) -> str:
 # ==============================
 # ROUTES
 # ==============================
+
 @app.get(
     "/health",
     response_model=HealthResponse,
     summary="Health check",
     description="Check that the API and RAG pipeline are running correctly."
 )
-
 async def health_check():
     return HealthResponse(
         status="ok",
@@ -122,24 +131,29 @@ async def query(request: QueryRequest):
         logger.info(f"Detected intent: {intent}")
 
         # Route through the existing pipeline
-        result = route_query(request.question, request.conversation_summary)
+        result = route_query(request.question)
         logger.info("Query answered successfully.")
         logger.info(f"Answer: {result['answer']!r}")
+
+        elapsed_s = time.perf_counter() - start_time
+        logger.info(f"Response time: {elapsed_s:.2f} s")
 
         return QueryResponse(
             answer=result["answer"],
             intent=intent,
-            updated_summary=result["updated_summary"]
+            response_time_s=elapsed_s,
         )
 
-
-    except Exception as e:
+    except Exception:
+        elapsed_s = time.perf_counter() - start_time
+        logger.error(f"Response time before failure: {elapsed_s:.2f} s")
         logger.error(f"Error processing query: {traceback.format_exc()}")
+        # Return a 500 with a descriptive message.
+        # Do NOT expose raw exception details to the client in production.
         raise HTTPException(
             status_code=500,
             detail="An internal error occurred while processing your query. "
                    "Please try again."
         )
-    finally:
-        elapsed_seconds = time.perf_counter() - start_time
-        logger.info(f"Response time: {elapsed_seconds:.2f} seconds")
+
+

@@ -6,13 +6,20 @@ from langchain_nvidia_ai_endpoints import ChatNVIDIA, NVIDIAEmbeddings
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from operator import itemgetter
+import re
+
 
 # ==============================
-# LOAD VECTORSTORE
+# CONFIGURATION
 # ==============================
 
 PERSIST_DIR = "./chroma_fcsit"
 COLLECTION_NAME = "fcsit_unimas_2026"
+
+
+# ==============================
+# LOAD VECTORSTORE
+# ==============================
 
 load_dotenv()
 os.environ["NVIDIA_API_KEY"] = os.getenv("NVIDIA_NIM_API")
@@ -20,10 +27,6 @@ os.environ["NVIDIA_API_KEY"] = os.getenv("NVIDIA_NIM_API")
 embedding_model = NVIDIAEmbeddings(
     model="nvidia/llama-nemotron-embed-1b-v2"
 )
-
-#alternative:
-#nvidia/llama-3.2-nv-embedqa-1b-v2 (deprecating on 2026-05-20)
-
 
 vectorstore = Chroma(
     collection_name=COLLECTION_NAME,
@@ -70,19 +73,34 @@ Content:
 # ============================
 
 llm = ChatNVIDIA(
+    model="nvidia/nemotron-3-super-120b-a12b", 
+    temperature=0.2,
+    top_p=0.95,
+    max_tokens=2000,
+  
+    chat_template_kwargs={"enable_thinking":True,"low_effort":True}
+    
+)
+
+'''
+    alternative model:
     model="openai/gpt-oss-120b", 
     temperature=0.3,
     top_p=0.7,
     max_completion_tokens=1500,
-)
 
-# alternative:
-# openai/gpt-oss-20b
+    model="nvidia/nemotron-3-super-120b-a12b",
+    temperature=0.2,
+    top_p=0.95,
+    max_tokens=4000,
+  
+    chat_template_kwargs={"enable_thinking":True,"low_effort":True}
+'''
 
 intent_classifier_llm = ChatNVIDIA( 
     model="google/gemma-2-2b-it",
     temperature=0.2,
-    max_completion_tokens=100,
+    max_completion_tokens=1024,
   )
 
 
@@ -97,7 +115,7 @@ intent_prompt = ChatPromptTemplate.from_messages([
 You are an intent classifier for an academic advising chatbot for
 Faculty of Computer Science and Information Technology (FCSIT) UNIMAS.
 
-Classify the user query into ONE of these categories: "academic_query", "greeting", "thanks".
+Classify the user query into ONE of these categories: "academic_query", "greeting", "thanks", "follow_up".
 
 academic_query
 - Questions about faculty/university information
@@ -113,6 +131,12 @@ greeting
 
 thanks
 - expressions of gratitude
+
+follow_up
+- Messages that need earlier conversation context to understand
+- Vague questions like "what about that", "how about this", "what is her email"
+- Questions that refer to unspecified people, things, or previous turns
+- Very short or ambiguous messages that cannot stand on their own
 
 Return ONLY the category name.
 
@@ -161,35 +185,9 @@ Context:
 
 User question: {question}
 
-Conversation so far (summary):
-{conversation_summary}
 """
     )
 ])
-
-
-summarize_prompt = ChatPromptTemplate.from_messages([
-    (
-        "user",
-        """
-Progressively summarize this academic advising conversation.
-Add the new exchange to the existing summary and return an updated summary.
-Be concise. Focus on topics discussed, courses mentioned, and key facts established.
-
-Existing summary:
-{existing_summary}
-
-New exchange:
-Human: {question}
-AI: {answer}
-
-Updated summary:
-"""
-    )
-])
-
-summarize_chain = summarize_prompt | intent_classifier_llm | StrOutputParser()
-
 
 # ============================
 # RETRIEVER
@@ -197,7 +195,7 @@ summarize_chain = summarize_prompt | intent_classifier_llm | StrOutputParser()
 
 retriever = vectorstore.as_retriever(
     search_type="similarity",
-    search_kwargs={"k": 5} # k=5, retrieve top 5 most similar results
+    search_kwargs={"k": 5}
 )
 
 
@@ -209,12 +207,43 @@ rag_chain = (
     {
         "context": itemgetter("question") | retriever | format_docs,
         "question": itemgetter("question"),
-        "conversation_summary": itemgetter("conversation_summary")
     }
     | rag_prompt
     | llm
     | StrOutputParser()
 )
+
+# ============================
+# FOLLOW-UP HANDLER
+# ============================
+
+FOLLOW_UP_RESPONSE = """
+I can help best when your question is clear, direct, and self-contained.
+
+I currently cannot handle follow-up questions or messages that depend on earlier chat context.
+This is a feature planned for future improvements.
+
+Please rephrase your question in a concise way so I can help you better.
+""".strip()
+
+
+FOLLOW_UP_PATTERNS = [
+    r"^\s*what about (that|this|it|him|her|them)\s*\??$",
+    r"^\s*how about (this|that|it|him|her|them)\s*\??$",
+    r"^\s*what is (her|his|their|its)\b.*\??$",
+    r"^\s*what about (it|that|this)\b.*\??$",
+    r"^\s*(this|that|it)\s*\??$",
+]
+
+
+def looks_like_follow_up(user_query):
+    normalized_query = user_query.strip().lower()
+
+    if any(re.search(pattern, normalized_query) for pattern in FOLLOW_UP_PATTERNS):
+        return True
+
+    return False
+
 
 # ============================
 # GREETING HANDLER
@@ -239,6 +268,14 @@ You can ask me general academic questions about FCSIT UNIMAS, such as:
 
 • faculty information
 
+To help me give you the most accurate info, please ensure your questions are:
+
+• Clear and specific
+
+• Concise (avoid unnecessary details)
+
+• Self-contained (avoid vague follow ups)
+
 How can I assist you today?
 """
 
@@ -247,14 +284,16 @@ How can I assist you today?
 # ROUTER
 # ============================
 
-def route_query(user_query, conversation_summary=""):
+def route_query(user_query):
 
     intent = intent_chain.invoke({"question": user_query}).strip().lower()
 
+    if intent == "academic_query" and looks_like_follow_up(user_query):
+        intent = "follow_up"
+
     if intent == "academic_query":
         answer = rag_chain.invoke(
-            {"question": user_query,
-             "conversation_summary": conversation_summary
+            {"question": user_query
             })   
 
     elif intent == "greeting":
@@ -263,6 +302,9 @@ def route_query(user_query, conversation_summary=""):
     elif intent == "thanks":
         answer = "You're welcome! If you have any more questions about FCSIT UNIMAS, feel free to ask."
 
+    elif intent == "follow_up":
+        answer = FOLLOW_UP_RESPONSE
+
     else:
         answer = """
 I can only assist with questions related to FCSIT UNIMAS academic advising.
@@ -270,19 +312,16 @@ I can only assist with questions related to FCSIT UNIMAS academic advising.
 Please ask about programme structure, courses, grading system,
 or other handbook-related topics. 
 """
-    updated_summary = summarize_chain.invoke(
-        {
-            "existing_summary": conversation_summary,
-            "question": user_query,
-            "answer": answer
-        }
-    )     
-    return {"answer": answer, "updated_summary": updated_summary}
+
+    return {
+        "answer": answer,
+        "intent": intent,
+    }
 
 
-def process_query_with_timing(user_query, conversation_summary=""):
+def process_query_with_timing(user_query):
     start_time = time.perf_counter()
-    result = route_query(user_query, conversation_summary)
+    result = route_query(user_query)
     elapsed_seconds = time.perf_counter() - start_time
     return result, elapsed_seconds
 
@@ -291,7 +330,6 @@ def process_query_with_timing(user_query, conversation_summary=""):
 # INTERACTIVE LOOP
 # ============================
 if __name__ == "__main__":
-    conversation_summary = ""
     while True:
 
         user_query = input("Enter your question (or -1 to exit): ")
@@ -300,8 +338,7 @@ if __name__ == "__main__":
             print("Exiting. Goodbye!")
             break
 
-        result, elapsed_seconds = process_query_with_timing(user_query, conversation_summary)
-        conversation_summary = result["updated_summary"]
+        result, elapsed_seconds = process_query_with_timing(user_query)
 
         print(f"\nAdvisorBot:\n{result['answer']}\n")
         print(f"Time taken: {elapsed_seconds:.2f} seconds\n")
