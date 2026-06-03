@@ -2,12 +2,14 @@
 
 This repository provides the backend for the FCSIT AdvisorBot.
 
+> **Note:** This repository contains the chatbot backend only. The chatbot frontend/mobile app is in this repository: [AdvisorBot Mobile App](https://github.com/cst023/FCSIT-AdvisorBot-Mobile-App)
+
 ## Setup and usage instructions:
 
 You can try it in two ways:
 
 1. CLI chat mode (run `vector_rag.py` directly)
-2. Local API server mode (run FastAPI with Uvicorn) for frontend integration (for example, a Flutter app)
+2. Local API server mode (run FastAPI with Uvicorn) for frontend integration (e.g. Flutter app)
 
 ### Prerequisites
 
