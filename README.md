@@ -5,6 +5,13 @@ A mobile-based academic advisory chatbot for students of FCSIT, UNIMAS. AdvisorB
 > **Note:** This repository contains the chatbot backend only. The chatbot frontend/mobile app is in this repository: [AdvisorBot Mobile App](https://github.com/cst023/FCSIT-AdvisorBot-Mobile-App)
 
 ---
+<p float="left">
+  <img src="assets/new chat.jpg" width="30%"/>&nbsp;&nbsp;
+  <img src="assets/academic query.jpg" width="30%" />&nbsp;&nbsp;
+  <img src="assets/query 2.jpg" width="30%"/>
+</p>
+
+---
 
 ## Features
 
